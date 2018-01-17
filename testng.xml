@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="STEP 01">
+ <classes>  
+    <!-- Tc to find the current conditions elements  -->
+       <class name="com.app.dashboard.Dashboard"> 
+         
+      </class>  
+ </classes>
+ </test> <!-- Test -->
+</suite> <!-- Suite -->
